@@ -4,7 +4,7 @@
       "title": "Memtest+",
       "version": "5.3.1",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
-      "description": "Простой текстовый редактор",
+      "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
       "category": "Memory test"
     },
