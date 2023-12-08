@@ -1,7 +1,6 @@
 {
-  "Basepack": [
-    {
-      "name": "memtest",
+  "Basepack": {
+    "memtest": {
       "title": "Memtest+",
       "version": "5.3.1",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
@@ -9,17 +8,15 @@
       "author": "tftp-np",
       "category": "Memory test"
     },
-    {
-      "name": "Calculator",
+    "calculator": {
       "title": "Calculator+",
       "version": "2.0",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
-      "description": "Калькулятор",
+      "description": "Простой текстовый редактор",
       "author": "tftp-np",
       "category": "Memory test"
     },
-    {
-      "name": "Paint",
+    "paint": {
       "title": "Paint+",
       "version": "3.0",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
@@ -27,5 +24,5 @@
       "author": "tftp-np",
       "category": "Memory test"
     }
-  ]
+  }
 }
