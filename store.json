@@ -11,7 +11,7 @@
      "bibm": {
       "title": "BootIt Bare Metal",
       "version": "5.3.1",
-      "link": "https://github.com/leruetkins/np-store/raw/main/data/bibm.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
       "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
       "author": "vedmak",
       "category": "Test tools"
@@ -19,7 +19,7 @@
     "hddarts": {
       "title": "HD Diagnostic and Repair Tools",
       "version": "5.3.1",
-      "link": "https://github.com/leruetkins/np-store/raw/main/data/hddarts.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/hddarts.zip",
       "description": "Diagnosis and correction of HDD-related problems.",
       "author": "vedmak",
       "category": "Test tools"
@@ -27,7 +27,7 @@
     "mtfd": {
       "title": "Memory Test Floppy Disk",
       "version": "5.3.1",
-      "link": "https://github.com/leruetkins/np-store/raw/main/data/mtfd.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/mtfd.zip",
       "description": "Diagnose RAM-related faults.",
       "author": "vedmak",
       "category": "Test tools"
