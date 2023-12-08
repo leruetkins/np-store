@@ -2,25 +2,28 @@
   "Basepack": [
     {
       "name": "memtest",
+      "title": "Memtest+",
       "version": "5.3.1",
-      "link":"https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
       "description": "Простой текстовый редактор",
-      "author":"tftp-np",
-      "category":"Memory test"
+      "author": "tftp-np",
+      "category": "Memory test"
     },
     {
       "name": "Calculator",
+      "title": "Memtest+",
       "version": "2.0",
       "description": "Калькулятор",
-      "author":"tftp-np",
-      "category":"Memory test"
+      "author": "tftp-np",
+      "category": "Memory test"
     },
     {
       "name": "Paint",
+      "title": "Memtest+",
       "version": "3.0",
       "description": "Программа для рисования",
-      "author":"tftp-np",
-      "category":"Memory test"
+      "author": "tftp-np",
+      "category": "Memory test"
     }
   ]
 }
