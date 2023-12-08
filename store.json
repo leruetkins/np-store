@@ -3,7 +3,7 @@
     "memtest": {
       "title": "Memtest86+",
       "version": "6.20",
-      "link": "https://github.com/kostyacher/ipxes/blob/main/memtest.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip",
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
       "category": "Test tools"
