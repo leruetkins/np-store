@@ -11,7 +11,7 @@
     },
     {
       "name": "Calculator",
-      "title": "Memtest+",
+      "title": "Calculator+",
       "version": "2.0",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
       "description": "Калькулятор",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Paint",
-      "title": "Memtest+",
+      "title": "Paint+",
       "version": "3.0",
       "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
       "description": "Программа для рисования",
