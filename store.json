@@ -8,21 +8,28 @@
       "author": "tftp-np",
       "category": "Memory test"
     },
-    "calculator": {
-      "title": "Calculator+",
-      "version": "2.0",
-      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
-      "description": "Modern electronic calculators vary from cheap, give-away, credit-card-sized models to sturdy desktop models with built-in printers. They became popular in the mid-1970s as the incorporation of integrated circuits reduced their size and cost. By the end of that decade, prices had dropped to the point where a basic calculator was affordable to most and they became common in schools. ",
-      "author": "tftp-np",
-      "category": "Memory test"
+     "bibm": {
+      "title": "BootIt Bare Metal",
+      "version": "5.3.1",
+      "link": "https://github.com/leruetkins/np-store/raw/main/data/bibm.zip",
+      "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
+      "author": "vedmak",
+      "category": "Test tools"
     },
-    "paint": {
-      "title": "Paint+",
-      "version": "3.0",
-      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
-      "description": "Paint is a liquid pigment that, after applied to a solid material and allowed to dry, adds a film-like layer, in most cases to create an image, known as a painting. Paint can be made in many colors and types. Most paints are either oil-based or water-based, and each has distinct characteristics. ",
-      "author": "tftp-np",
-      "category": "Memory test"
-    }
+    "hddarts": {
+      "title": "HD Diagnostic and Repair Tools",
+      "version": "5.3.1",
+      "link": "https://github.com/leruetkins/np-store/raw/main/data/hddarts.zip",
+      "description": "Diagnosis and correction of HDD-related problems.",
+      "author": "vedmak",
+      "category": "Test tools"
+  },
+    "mtfd": {
+      "title": "Memory Test Floppy Disk",
+      "version": "5.3.1",
+      "link": "https://github.com/leruetkins/np-store/raw/main/data/mtfd.zip",
+      "description": "Diagnose RAM-related faults.",
+      "author": "vedmak",
+      "category": "Test tools"
   }
-}
+}}
