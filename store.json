@@ -1,35 +1,35 @@
 {
   "Basepack": {
     "memtest": {
-      "title": "Memtest+",
-      "version": "5.3.1",
-      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
+      "title": "Memtest86+",
+      "version": "6.20",
+      "link": "https://github.com/kostyacher/ipxes/blob/main/memtest.zip",
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
-      "category": "Memory test"
+      "category": "Test tools"
     },
      "bibm": {
       "title": "BootIt Bare Metal",
-      "version": "5.3.1",
+      "version": "1.90",
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
       "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
-      "author": "vedmak",
+      "author": "Geralt",
       "category": "Test tools"
     },
     "hddarts": {
       "title": "HD Diagnostic and Repair Tools",
-      "version": "5.3.1",
+      "version": "06.12.2023",
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/hddarts.zip",
       "description": "Diagnosis and correction of HDD-related problems.",
-      "author": "vedmak",
+      "author": "Geralt",
       "category": "Test tools"
   },
     "mtfd": {
       "title": "Memory Test Floppy Disk",
-      "version": "5.3.1",
+      "version": "10.05.2023",
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/mtfd.zip",
       "description": "Diagnose RAM-related faults.",
-      "author": "vedmak",
+      "author": "Geralt",
       "category": "Test tools"
   }
 }}
