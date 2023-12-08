@@ -13,6 +13,7 @@
       "name": "Calculator",
       "title": "Memtest+",
       "version": "2.0",
+      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
       "description": "Калькулятор",
       "author": "tftp-np",
       "category": "Memory test"
@@ -21,6 +22,7 @@
       "name": "Paint",
       "title": "Memtest+",
       "version": "3.0",
+      "link": "https://raw.githubusercontent.com/leruetkins/tftp-np-light/beta/boot/ipxes/memtest.zip",
       "description": "Программа для рисования",
       "author": "tftp-np",
       "category": "Memory test"
