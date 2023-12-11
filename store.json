@@ -3,10 +3,11 @@
     "memtest": {
       "title": "Memtest86+",
       "version": "6.20",
-      "link": "https://github.com/kostyacher/ipxes/blob/main/memtest.zip",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip",
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
-      "category": "Test tools"
+      "category": "Test tools",
+      "size":"132 Kb"
     },
      "bibm": {
       "title": "BootIt Bare Metal",
@@ -14,7 +15,8 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
       "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
       "author": "Geralt",
-      "category": "Test tools"
+      "category": "Test tools",
+       "size":"3.65 Mb"
     },
     "hddarts": {
       "title": "HD Diagnostic and Repair Tools",
@@ -22,7 +24,9 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/hddarts.zip",
       "description": "Diagnosis and correction of HDD-related problems.",
       "author": "Geralt",
-      "category": "Test tools"
+      "category": "Test tools",
+      "size":"6.84 Mb"
+    
   },
     "mtfd": {
       "title": "Memory Test Floppy Disk",
@@ -30,6 +34,7 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/mtfd.zip",
       "description": "Diagnose RAM-related faults.",
       "author": "Geralt",
-      "category": "Test tools"
+      "category": "Test tools",
+      "size":"3.83 Mb"
   }
 }}
