@@ -7,7 +7,8 @@
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
       "category": "Test tools",
-      "size":"132 Kb"
+      "size":"132 Kb",
+      "arch":"bios/efi"
     },
      "bibm": {
       "title": "BootIt Bare Metal",
@@ -16,7 +17,8 @@
       "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
       "author": "Geralt",
       "category": "Test tools",
-       "size":"3.65 Mb"
+       "size":"3.65 Mb",
+       "arch":"bios"
     },
     "hddarts": {
       "title": "HD Diagnostic and Repair Tools",
@@ -25,7 +27,8 @@
       "description": "Diagnosis and correction of HDD-related problems.",
       "author": "Geralt",
       "category": "Test tools",
-      "size":"6.84 Mb"
+      "size":"6.84 Mb",
+      "arch":"bios"
     
   },
     "mtfd": {
@@ -35,6 +38,7 @@
       "description": "Diagnose RAM-related faults.",
       "author": "Geralt",
       "category": "Test tools",
-      "size":"3.83 Mb"
+      "size":"3.83 Mb",
+      "arch":"bios"
   }
 }}
