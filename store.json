@@ -6,7 +6,7 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip",
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
-      "category": "Test tools",
+      "category": "TEST MENU",
       "size": "132 Kb",
       "arch": "bios/efi"
     },
@@ -16,7 +16,7 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
       "description": "Partition management, multi-boot OS management, cloning/backup/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
       "author": "Geralt",
-      "category": "Test tools",
+      "category": "TEST MENU",
       "size": "3.65 Mb",
       "arch": "bios"
     },
@@ -26,7 +26,7 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/hddarts.zip",
       "description": "Diagnosis and correction of HDD-related problems.",
       "author": "Geralt",
-      "category": "Test tools",
+      "category": "TEST MENU",
       "size": "6.84 Mb",
       "arch": "bios"
     },
@@ -36,7 +36,7 @@
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/mtfd.zip",
       "description": "Diagnose RAM-related faults.",
       "author": "Geralt",
-      "category": "Test tools",
+      "category": "TEST MENU",
       "size": "3.83 Mb",
       "arch": "bios"
     },
@@ -56,7 +56,7 @@
       "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
       "description": "Install Windows 11",
       "author": "Vedmak",
-      "category": "WinPE",
+      "category": "WINDOWS PE MENU",
       "size": "580 Mb",
       "arch": "efi/bios"
     }
