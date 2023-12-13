@@ -47,7 +47,7 @@
       "description": "Small live cd linux system.",
       "author": "tftp-np",
       "category": "LINUX MENU",
-      "size": "690 Mb",
+      "size": "609 Mb",
       "arch": "bios"
     },
     "win11iso": {
@@ -57,7 +57,7 @@
       "description": "Install Windows 11",
       "author": "Vedmak",
       "category": "WINDOWS MENU",
-      "size": "690 Mb",
+      "size": "580 Mb",
       "arch": "efi/bios"
     }
   }
