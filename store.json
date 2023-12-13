@@ -7,18 +7,18 @@
       "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
       "author": "tftp-np",
       "category": "Test tools",
-      "size":"132 Kb",
-      "arch":"bios/efi"
+      "size": "132 Kb",
+      "arch": "bios/efi"
     },
-     "bibm": {
+    "bibm": {
       "title": "BootIt Bare Metal",
       "version": "1.90",
       "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
-      "description": "Partition management, multi-boot OS management, cloning\/backup\/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
+      "description": "Partition management, multi-boot OS management, cloning/backup/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
       "author": "Geralt",
       "category": "Test tools",
-       "size":"3.65 Mb",
-       "arch":"bios"
+      "size": "3.65 Mb",
+      "arch": "bios"
     },
     "hddarts": {
       "title": "HD Diagnostic and Repair Tools",
@@ -27,10 +27,9 @@
       "description": "Diagnosis and correction of HDD-related problems.",
       "author": "Geralt",
       "category": "Test tools",
-      "size":"6.84 Mb",
-      "arch":"bios"
-    
-  },
+      "size": "6.84 Mb",
+      "arch": "bios"
+    },
     "mtfd": {
       "title": "Memory Test Floppy Disk",
       "version": "10.05.2023",
@@ -38,18 +37,28 @@
       "description": "Diagnose RAM-related faults.",
       "author": "Geralt",
       "category": "Test tools",
-      "size":"3.83 Mb",
-      "arch":"bios"
-  },
+      "size": "3.83 Mb",
+      "arch": "bios"
+    },
     "fatdog": {
       "title": "Fat dog",
       "version": "9.01",
       "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/TQMVmCYz6ZoB0w",
       "description": "Small live cd linux system.",
       "author": "tftp-np",
-      "category": "Linux",
-      "size":"690 Mb",
-      "arch":"bios"
+      "category": "LINUX MENU",
+      "size": "690 Mb",
+      "arch": "bios"
+    },
+    "win11iso": {
+      "title": "Windows 11 ISO",
+      "version": "11",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
+      "description": "Install Windows 11",
+      "author": "Vedmak",
+      "category": "WINDOWS MENU",
+      "size": "690 Mb",
+      "arch": "efi/bios"
+    }
   }
-}
 }
