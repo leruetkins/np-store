@@ -50,13 +50,13 @@
       "size": "609 Mb",
       "arch": "bios"
     },
-    "win11iso": {
-      "title": "Windows 11 ISO",
+    "winpe11": {
+      "title": "Windows 11 PE",
       "version": "11",
       "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
       "description": "Install Windows 11",
       "author": "Vedmak",
-      "category": "WINDOWS MENU",
+      "category": "WinPE",
       "size": "580 Mb",
       "arch": "efi/bios"
     }
