@@ -50,16 +50,6 @@
       "size": "609 Mb",
       "arch": "bios"
     },
-    "winpe11": {
-      "title": "Windows 11 PE",
-      "version": "11",
-      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
-      "description": "Install Windows 11",
-      "author": "Vedmak",
-      "category": "WINDOWS PE MENU",
-      "size": "580 Mb",
-      "arch": "efi/bios"
-    },
     "clonezilla": {
       "title": "Clonezilla",
       "version": "3.1.27",
@@ -68,6 +58,16 @@
       "author": "tftp-np",
       "category": "LINUX MENU",
       "size": "386 Mb",
+      "arch": "efi/bios"
+    },
+    "winpe11": {
+      "title": "Windows 11 PE",
+      "version": "11",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
+      "description": "Install Windows 11",
+      "author": "Vedmak",
+      "category": "WINDOWS PE MENU",
+      "size": "580 Mb",
       "arch": "efi/bios"
     }
   }
