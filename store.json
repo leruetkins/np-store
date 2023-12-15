@@ -60,6 +60,26 @@
       "size": "386 Mb",
       "arch": "efi/bios"
     },
+    "pmagic": {
+      "title": "Parted Magic Free",
+      "version": "2013",
+      "link": "https://archive.org/download/pmagic_202312/pmagic.zip",
+      "description": "Parted Magic is a Linux distribution based on Slackware that comes with disk partitioning and data recovery tools.",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "1 Gb",
+      "arch": "efi/bios"
+    },
+    "sysrescue": {
+      "title": "System Rescue CD",
+      "version": "10.02",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/VuohnS_yX87cig",
+      "description": "SystemRescue (formerly known as SystemRescueCd) is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux system utilities such as GParted, fsarchiver, filesystem tools and basic tools (editors, midnight commander, network tools).",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "750 Mb",
+      "arch": "efi/bios"
+    },
     "winpe11": {
       "title": "Windows 11 PE",
       "version": "11",
