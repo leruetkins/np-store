@@ -59,6 +59,16 @@
       "category": "WINDOWS PE MENU",
       "size": "580 Mb",
       "arch": "efi/bios"
+    },
+    "clonezilla": {
+      "title": "Clonezilla",
+      "version": "3.1.27",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/KxzjLM9lNjwevA",
+      "description": "Clonezilla is a partition and disk imaging/cloning program similar to True Image®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "386 Mb",
+      "arch": "efi/bios"
     }
   }
 }
