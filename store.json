@@ -63,7 +63,7 @@
     "pmagic": {
       "title": "Parted Magic Free",
       "version": "2013",
-      "link": "https://archive.org/download/pmagic_202312/pmagic.zip",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/Tv34K_ijOrirRQ",
       "description": "Parted Magic is a Linux distribution based on Slackware that comes with disk partitioning and data recovery tools.",
       "author": "tftp-np",
       "category": "LINUX MENU",
@@ -78,6 +78,16 @@
       "author": "tftp-np",
       "category": "LINUX MENU",
       "size": "750 Mb",
+      "arch": "efi/bios"
+    },
+    "redorescue": {
+      "title": "Redo rescue",
+      "version": "4.0.0",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/9jzCZQT_khSWZw",
+      "description": "Redo Rescue, formerly Redo Backup and Recovery, is a free backup and disaster recovery software. It runs from a bootable Linux CD image, features a GUI that is a front end to the Partclone command line utility, and is capable of bare-metal backup and recovery of disk partitions. It can use external hard drives and network shares.",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "671 Mb",
       "arch": "efi/bios"
     },
     "winpe11": {
