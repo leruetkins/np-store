@@ -1,0 +1,104 @@
+{
+  "Basepack": {
+    "memtest": {
+      "title": "Memtest86+",
+      "version": "6.20",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip",
+      "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
+      "author": "tftp-np",
+      "category": "TEST MENU",
+      "size": "132 Kb",
+      "arch": "bios/efi"
+    },
+    "bibm": {
+      "title": "BootIt Bare Metal",
+      "version": "1.90",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/bibm.zip",
+      "description": "Partition management, multi-boot OS management, cloning/backup/recovery of disks and partitions, running PC maintenance scripts, resetting Windows account passwords",
+      "author": "Geralt",
+      "category": "TEST MENU",
+      "size": "3.65 Mb",
+      "arch": "bios"
+    },
+    "hddarts": {
+      "title": "HD Diagnostic and Repair Tools",
+      "version": "06.12.2023",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/hddarts.zip",
+      "description": "Diagnosis and correction of HDD-related problems.",
+      "author": "Geralt",
+      "category": "TEST MENU",
+      "size": "6.84 Mb",
+      "arch": "bios"
+    },
+    "mtfd": {
+      "title": "Memory Test Floppy Disk",
+      "version": "10.05.2023",
+      "link": "https://raw.githubusercontent.com/leruetkins/np-store/main/data/mtfd.zip",
+      "description": "Diagnose RAM-related faults.",
+      "author": "Geralt",
+      "category": "TEST MENU",
+      "size": "3.83 Mb",
+      "arch": "bios"
+    },
+    "fatdog": {
+      "title": "Fat dog",
+      "version": "9.01",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CKkZR-U863J4SQ",
+      "description": "Small live cd linux system.",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "609 Mb",
+      "arch": "bios"
+    },
+    "clonezilla": {
+      "title": "Clonezilla",
+      "version": "3.1.27",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/KxzjLM9lNjwevA",
+      "description": "Clonezilla is a partition and disk imaging/cloning program similar to True Image®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "386 Mb",
+      "arch": "efi/bios"
+    },
+    "pmagic": {
+      "title": "Parted Magic Free",
+      "version": "2013",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/Tv34K_ijOrirRQ",
+      "description": "Parted Magic is a Linux distribution based on Slackware that comes with disk partitioning and data recovery tools.",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "1 Gb",
+      "arch": "efi/bios"
+    },
+    "sysrescue": {
+      "title": "System Rescue CD",
+      "version": "10.02",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/VuohnS_yX87cig",
+      "description": "SystemRescue (formerly known as SystemRescueCd) is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux system utilities such as GParted, fsarchiver, filesystem tools and basic tools (editors, midnight commander, network tools).",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "750 Mb",
+      "arch": "efi/bios"
+    },
+    "redorescue": {
+      "title": "Redo rescue",
+      "version": "4.0.0",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/9jzCZQT_khSWZw",
+      "description": "Redo Rescue, formerly Redo Backup and Recovery, is a free backup and disaster recovery software. It runs from a bootable Linux CD image, features a GUI that is a front end to the Partclone command line utility, and is capable of bare-metal backup and recovery of disk partitions. It can use external hard drives and network shares.",
+      "author": "tftp-np",
+      "category": "LINUX MENU",
+      "size": "671 Mb",
+      "arch": "efi/bios"
+    },
+    "winpe11": {
+      "title": "Windows 11 PE",
+      "version": "11",
+      "link": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/XXOWVZu70tEviA",
+      "description": "Install Windows 11",
+      "author": "Vedmak",
+      "category": "WINDOWS PE MENU",
+      "size": "580 Mb",
+      "arch": "efi/bios"
+    }
+  }
+}
