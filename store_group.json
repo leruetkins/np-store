@@ -110,6 +110,18 @@
         "category": "LINUX MENU",
         "size": "671 Mb",
         "arch": "efi/bios"
+      },
+      "brd": {
+        "title": "Boot Repair Disk (BRD)",
+        "version": "2023.12.23",
+        "link": [
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/Dmn7lrB2QvidwA"
+        ],
+        "description": "Here is THE Rescue Disk that you should keep close to your computer! Runs automatically Boot-Repair rescue tool at start-up. Also contains the OS-Uninstaller and Boot-Info tools. Repairs recent (UEFI) computers as well as old PCs.",
+        "author": "tftp-np",
+        "category": "LINUX MENU",
+        "size": "681 Mb",
+        "arch": "efi/bios"
       }
     },
     "WINDOWS PE MENU": {
