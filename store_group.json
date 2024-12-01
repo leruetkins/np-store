@@ -55,7 +55,8 @@
         "title": "Fat dog",
         "version": "9.01",
         "link": [
-          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CKkZR-U863J4SQ"
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/CKkZR-U863J4SQ",
+          "https://nch.pl/s/6T2N7BcTbrkmFtc/download/fatdog.zip"
         ],
         "description": "Small live cd linux system.",
         "author": "tftp-np",
@@ -93,7 +94,8 @@
         "title": "System Rescue CD",
         "version": "10.02",
         "link": [
-          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/VuohnS_yX87cig"
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/VuohnS_yX87cig",
+          "https://nch.pl/s/mLRPNn9WBTa92dW/download/sysrescue.zip"
         ],
         "description": "SystemRescue (formerly known as SystemRescueCd) is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux system utilities such as GParted, fsarchiver, filesystem tools and basic tools (editors, midnight commander, network tools).",
         "author": "tftp-np",
