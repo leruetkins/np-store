@@ -67,7 +67,8 @@
         "title": "Clonezilla",
         "version": "3.1.27",
         "link": [
-          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/KxzjLM9lNjwevA"
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/KxzjLM9lNjwevA",
+          "https://nch.pl/s/MGjep6NsXEzCHRy/download/clonezilla.zip"
         ],
         "description": "Clonezilla is a partition and disk imaging/cloning program similar to True Image®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).",
         "author": "tftp-np",
@@ -79,7 +80,8 @@
         "title": "Parted Magic Free",
         "version": "2013",
         "link": [
-          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/Tv34K_ijOrirRQ"
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/Tv34K_ijOrirRQ",
+          "https://nch.pl/s/njnrsBzYZfgQfiQ/download/pmagic.zip"
         ],
         "description": "Parted Magic is a Linux distribution based on Slackware that comes with disk partitioning and data recovery tools.",
         "author": "tftp-np",
@@ -103,7 +105,8 @@
         "title": "Redo rescue",
         "version": "4.0.0",
         "link": [
-          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/9jzCZQT_khSWZw"
+          "https://getfile.dokpub.com/yandex/get/https://disk.yandex.by/d/9jzCZQT_khSWZw",
+          "https://nch.pl/s/cPSFooXgrkHPWqG/download/redorescue.zip"
         ],
         "description": "Redo Rescue, formerly Redo Backup and Recovery, is a free backup and disaster recovery software. It runs from a bootable Linux CD image, features a GUI that is a front end to the Partclone command line utility, and is capable of bare-metal backup and recovery of disk partitions. It can use external hard drives and network shares.",
         "author": "tftp-np",
