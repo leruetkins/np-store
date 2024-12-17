@@ -1,0 +1,50 @@
+{
+  "packs": [
+    {
+      "name": "Basepack",
+      "menu": [
+        {
+          "name": "TEST MENU",
+          "program": [
+            {
+              "name": "memtest",
+              "title": "Memtest86+",
+              "version": "6.20",
+              "link": [
+                "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip"
+              ],
+              "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
+              "author": "tftp-np",
+              "category": "TEST MENU",
+              "size": "132 Kb",
+              "arch": "bios/efi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testpack",
+      "menu": [
+        {
+          "name": "WEX MENU",
+          "program": [
+            {
+              "name": "memtest",
+              "title": "Memtest86+",
+              "version": "6.20",
+              "link": [
+                "https://raw.githubusercontent.com/leruetkins/np-store/main/data/memtest.zip"
+              ],
+              "description": "MemTest86 is the original self booting memory testing software for x86 and ARM computers. Supporting both BIOS and UEFI",
+              "author": "tftp-np",
+              "category": "WEX MENU",
+              "size": "132 Kb",
+              "arch": "bios/efi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
