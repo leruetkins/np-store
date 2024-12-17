@@ -1,0 +1,70 @@
+#!ipxe
+
+set space:hex 20:20
+set space ${space:string}
+set pass 111 
+
+set esc:hex 1b            # ANSI escape character - "^["
+set cls ${esc:string}[2J  # ANSI clear screen sequence - "^[[2J"
+echo ${cls} 
+
+
+:start
+set cls:hex 1b:5b:4a
+set cls ${cls:string}
+menu TFTP-NP 2022 ${version} ${boot_mode} ${update} ${update_version} 
+item --gap ${space} ${space} ${space} ${space} ${space} ${space} ${space} ${space} ${space} ${space} ${space} MAC:${net0/mac:hexhyp} ${space} IP:${ip}
+
+item --gap
+item --gap NABEN INSTALL MENU
+	item debian ${space} * Debian 12 Stable Text Mode Installer 
+	item debianiso ${space} * Debian 12 Stable Graphical Installer
+
+item --gap iIPXE shell
+	item shell ${space} * Drop to iPXE shell
+	item reboot ${space} * Reboot 
+	item exit ${space} * Exit
+
+item --gap
+	item goback <- Go back
+	 
+	
+choose target && goto ${target}
+
+:debian
+echo Debian 12 Stable Text Mode Installer 
+echo
+kernel http://ftp.ru.debian.org/debian/dists/stable/main/installer-amd64/current/images/netboot/debian-installer/amd64/linux || goto failed
+initrd http://ftp.ru.debian.org/debian/dists/stable/main/installer-amd64/current/images/netboot/debian-installer/amd64/initrd.gz || goto failed
+imgargs linux initrd=initrd.gz
+boot || goto failed
+goto start
+
+:debianiso
+echo Debian 12 Stable Graphical Installer
+echo
+sanboot --no-describe http://ftp.ru.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso                     || goto failed
+boot || goto failed
+
+:goback
+chain --replace ${server_ip}:${port}/menu/start
+
+:failed
+echo Booting failed, dropping to shell
+goto shell
+
+:shell
+echo Type 'exit' to get the back to the menu
+shell
+set menu-timeout 0
+set submenu-timeout 0
+goto start
+
+:reboot
+reboot --warm ||
+goto start
+
+:exit
+echo Continuing BIOS boot order...
+sleep 1
+exit 0
